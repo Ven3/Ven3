@@ -7,3 +7,9 @@
     > npm install -g vue-cli
 - 初始化VUE环境
     > vue init webpack
+## 2019年8月12日
+创建工程, 初始化导入
+
+## 2019年8月15日
+更新Repo目录结构, 去掉不需要的文件
+
